@@ -4,4 +4,9 @@
 
 ##
 
+`Note`
+### The above tutorial uses an outdated version of node for the runtime nodejs8.10, you need to change it to nodejs12.x or nodejs14.x
+
+##
+
 [serverless framework](https://www.serverless.com/)
